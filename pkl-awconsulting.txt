@@ -1,5 +1,5 @@
 PKL AW CONSULTING
 -Melaksanakan Praktik yang diberikan oleh Industri 
 -Menginstall Linux
--Belajar membuat JavaSricpt
--Belajar membuat HTML
+-Belajar JavaSricpt
+-Belajar  HTML
